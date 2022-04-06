@@ -1,0 +1,2 @@
+# rest-protobuf
+the project is implemented to get familiar myself into protobuf encoding in rest. There are some advantages and drawbacks to use it, network message size reduce, serialization and deserialization time reduce. But it is hard to work with it because of the nature of binary protocol.
